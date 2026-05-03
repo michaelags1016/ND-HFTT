@@ -1,0 +1,3 @@
+[submodule "group7_2026/EthernetRepeat-customOrder"]
+	path = group7_2026/EthernetRepeat-customOrder
+	url = https://github.com/ndhft/hft_group_7_FPGA
